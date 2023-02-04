@@ -2,7 +2,7 @@
 
 const path = require ('path');
 const fs = require('fs');
-const inuirer = require('inquirer');
+const inquirer = require('inquirer');
 
 const generateMarkdown = require('./utils/generateMarkdown');
 
