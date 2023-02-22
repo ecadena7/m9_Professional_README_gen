@@ -16,20 +16,17 @@ function renderLicenseLink(license) {
     return '[MIT Link](https://mit-license.org/)'
   };
   if (license === 'APACHE') {
-    return '[APACHE Link]()'
+    return '[APACHE Link](https://apache.org/licenses/)'
   };
   if (license === 'GNU') {
-    return '[GNU Link]()'
+    return '[GNU Link](https://www.gnu.org/licenses/)'
   }
 };
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return `
-  # ${license}
-  
-  Did this also print on the screen?`
+  return `# ${license}`
 }
 
 // TODO: Create a function to generate markdown for README
