@@ -55,6 +55,7 @@ ${data.installation}
 
 ${data.usage}
 
+[![Demo Video](https://youtu.be/wxSCfIFw4nE)](https://youtu.be/wxSCfIFw4nE)
 ## Credits
 
 Collaborators
