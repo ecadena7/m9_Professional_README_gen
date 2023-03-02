@@ -13,13 +13,13 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'MIT') {
-    return '[MIT Link](https://mit-license.org/)'
+    return '[MIT](https://mit-license.org/)'
   };
   if (license === 'APACHE') {
-    return '[APACHE Link](https://apache.org/licenses/)'
+    return '[APACHE](https://apache.org/licenses/)'
   };
   if (license === 'GNU') {
-    return '[GNU Link](https://www.gnu.org/licenses/)'
+    return '[GNU](https://www.gnu.org/licenses/)'
   }
 };
 
@@ -57,16 +57,18 @@ ${data.usage}
 
 ## Credits
 
-Collaborators,
-    - Github: [${data.githubTwo}](https://github.com/${data.githubTwo})
+Collaborators
+
+- Github: [${data.githubTwo}](https://github.com/${data.githubTwo})
 
 
-Tutorials,
-    - [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-    - [Microsoft's VS Code repository](https://github.com/microsoft/vscode)
-    - [Contributor Covenant](https://www.contributor-covenant.org/)
-    - [shields.io](https://shields.io/)
-    - [https://choosealicense.com/](https://choosealicense.com/)
+Tutorials
+
+- [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [Microsoft's VS Code repository](https://github.com/microsoft/vscode)
+- [Contributor Covenant](https://www.contributor-covenant.org/)
+- [shields.io](https://shields.io/)
+- [https://choosealicense.com/](https://choosealicense.com/)
 
 ## License
 
@@ -74,7 +76,6 @@ Tutorials,
 
 ${renderLicenseBadge(data.license)}
 
-${renderLicenseLink(data.license)}
 
 ## Contact Me
 
@@ -90,7 +91,7 @@ If you created an application or package and would like other developers to  is 
 ## Tests
   
 ${data.test}
-  Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
 `;
 }
 

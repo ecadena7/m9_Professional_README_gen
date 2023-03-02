@@ -22,7 +22,7 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'What command should be run to install dependencies?',
-        default: 'npm i',
+        default: 'Open your terminal and type [npm i] and press [enter]',
     },
     {
         type: 'input',
