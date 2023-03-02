@@ -1,8 +1,8 @@
-# 
+# The Corgi Files
 
 ## Description
 
-
+This is a catologe of all the corgi case files that special agent detective Mae the Corgi. 
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -31,12 +31,12 @@ npm i
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-
+BEWARE - CORGIE X-FILES
 
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
-    - [GitHub Profile:](https://github.com/)
+    - [GitHub Profile:](https://github.com/mae)
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
@@ -44,11 +44,11 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-MIT 
+GNU 
 
-![](https://img.shields.io/badge/license-MIT-orange)
+![](https://img.shields.io/badge/license-GNU-orange)
 
-[MIT Link](https://mit-license.org/)
+[GNU Link](https://www.gnu.org/licenses/)
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
@@ -56,15 +56,15 @@ The last section of a high-quality README file is the license. This lets other d
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
-## Contact
+## Contact Me
 
-GITHUB: [https://github.com/ecadena7](https://github.com/ecadena7)
+Github: [https://github.com/ecadena7](https://github.com/ecadena7)
 
-EMAIL: [elie.gmail.com](mailto:elie.gmail.com)
+Email: [eliezer.cadena@gmail.com](mailto:eliezer.cadena@gmail.com)
 
 ## How to Contribute
 
-
+FORKING the Repo
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 
 ## Tests
